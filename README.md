@@ -19,7 +19,7 @@ INSTALLATION
 <br />
 For installating the app, you have to type this command in the terminal:
 <br /><br />
-&ensp;&ensp;&ensp;&ensp;sh -c "$(curl -fsSL https://raw.githubusercontent.com/map555/Winter2020-8INF700/master/Winter20_8INF700/installer.sh)"
+&ensp;&ensp;&ensp;&ensp;sh -c "$(curl -fsSL https://raw.githubusercontent.com/map555/Winter2020-8INF700/main/Winter20_8INF700/installer.sh)"
 <br /><br />
 Then, you just have to configure raspotify, you can follow the configuration part to set it: https://pimylifeup.com/raspberry-pi-spotify/
 
