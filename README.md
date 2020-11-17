@@ -8,7 +8,7 @@ This little application has the following functionnality:
 
 - Hour and weather
 
-- Spotify music (a Spotify prenium account is required to play Spotify's music on your Pi)
+- Spotify music (a Spotify premium account is required to play Spotify's music on your Pi)
 
 - Alarm clock
 
@@ -36,3 +36,6 @@ the applications connects to messenger, Facebook can interpratate that like a un
 you reset your password. This problem happens espacialy when it's been a long time that you didn't start the program.
 
 For now, the Messenger Notification only support user to user and group conversation, marketplace sale conversation will crash the app.
+
+You can't use your Spotify's username and password anymore to generate authentification token with the spotify-token library. You have to use respectively the "sp_dc" and "sp_key" cookies as Spotify's username and password. For more details you can consult the spotify-token' usage instruction at the Python Package Index page of the project:
+https://pypi.org/project/spotify-token/1.0.0/
