@@ -27,7 +27,6 @@ https://pimylifeup.com/raspberry-pi-spotify/
 
 
 NOTES:
-
 - Dark Sky Weather is now Apple's property 😕So you need to already have a Dark Sky Weather API key to run the app because they stopped the support for new users and they will support the api for already suscribed user until the end of 2021.
 
 
