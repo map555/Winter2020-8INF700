@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=true
+Exec= python3 /home/pi/Documents/.RPI-Alarm-Clock/Winter2020-8INF700/Winter20_8INF700/Application.py
+Name=8INF700 Raspberry Pi Alarm Clock
+Icon= /home/pi/Documents/.RPI-Alarm-Clock/Winter2020-8INF700/Winter20_8INF700/alarm-clock-icon.png
