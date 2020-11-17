@@ -1,6 +1,6 @@
 # Winter2020-8INF700
 Smart clock prototype made by a bachelor degree student at Université du Québec à Chicoutimi in the context of the "Special Subject in
-Computer Science (8INF700)" class under the supervisition of Sylvain Hallé. This project is made for Raspberry Pi's Raspbian and the Raspberry Pi's
+Computer Science (8INF700)" class under the supervisition of professor Sylvain Hallé. This project is made for Raspberry Pi's Raspbian and the Raspberry Pi's
 official 7 inches display (v1.1).
 <br /><br />
 
