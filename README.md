@@ -24,6 +24,8 @@ Then, you just have to configure raspotify, you can follow the configuration par
 https://pimylifeup.com/raspberry-pi-spotify/
 
 
+
+
 NOTES:
 
 Dark Sky Weather is now Apple's property 😕
