@@ -2,7 +2,7 @@
 Smart clock prototype made by a bachelor degree student at Université du Québec à Chicoutimi in the context of the "Special Subject in
 Computer Science (8INF700)" class under the supervisition of Sylvain Hallé. This project is made for Raspberry Pi's Raspbian and the Raspberry Pi's
 official 7 inches display (v1.1).
-
+<br /><br />
 
 This little application has the following functionnality:
 
@@ -14,17 +14,17 @@ This little application has the following functionnality:
 
 - Messenger's notification
 
-
+<br /><br />
 INSTALLATION
+<br />
 For installating the app, you have to type this command in the terminal:
+<br /><br />
+&ensp;&ensp;&ensp;&ensp;sh -c "$(curl -fsSL https://raw.githubusercontent.com/map555/Winter2020-8INF700/master/Winter20_8INF700/installer.sh)"
+<br /><br />
+Then, you just have to configure raspotify, you can follow the configuration part to set it: https://pimylifeup.com/raspberry-pi-spotify/
 
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/map555/Winter2020-8INF700/master/Winter20_8INF700/installer.sh)"
-
-Then, you just have to configure raspotify, you can follow the configuration part to set it:
-https://pimylifeup.com/raspberry-pi-spotify/
-
-
-
+<br />
+<br />
 
 NOTES:
 - Dark Sky Weather is now Apple's property 😕So you need to already have a Dark Sky Weather API key to run the app because they stopped the support for new users and they will support the api for already suscribed user until the end of 2021.
